@@ -1,4 +1,5 @@
 🩺 Diabetes Prediction
+
 A Machine Learning project that predicts whether a patient is diabetic or not based on medical symptoms and health indicators 🤖📊
 
 ✨ Overview
