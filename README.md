@@ -9,7 +9,8 @@ The model is trained on multiple medical features such as age, gender, and sympt
 
 ---
 
-🎯 Features
+🎯 Features:
+
 📊 Data exploration and visualization  
 🧹 Data cleaning and preprocessing  
 🔤 Label encoding for categorical data  
@@ -21,6 +22,7 @@ The model is trained on multiple medical features such as age, gender, and sympt
 ---
 
 📊 Dataset
+
 The dataset contains medical records of patients with features such as:
 
 - Age  
@@ -43,6 +45,7 @@ The dataset contains medical records of patients with features such as:
 ---
 
 🎯 Target Variable:
+
 - class → Indicates whether the patient is:
   - Positive (Diabetic)
   - Negative (Non-Diabetic)
@@ -50,6 +53,7 @@ The dataset contains medical records of patients with features such as:
 ---
 
 🛠️ Technologies Used
+
 Python  
 Pandas  
 NumPy  
@@ -60,11 +64,13 @@ Scikit-learn
 ---
 
 🤖 Machine Learning Model
+
 Random Forest Classifier
 
 ---
 
 📈 Evaluation Metrics
+
 - Accuracy Score  
 - Confusion Matrix  
 - Classification Report  
@@ -73,6 +79,7 @@ Random Forest Classifier
 ---
 
 🧠 Key Insights
+
 - Some symptoms like polyuria and polydipsia are strong indicators of diabetes  
 - Feature importance helps identify the most influential factors in prediction  
 - Proper preprocessing improves model performance significantly  
@@ -80,6 +87,7 @@ Random Forest Classifier
 ---
 
 🚀 Future Improvements
+
 🔹 Try different ML models (Logistic Regression, SVM, XGBoost)  
 🔹 Hyperparameter tuning for better accuracy  
 🔹 Deploy the model as a web application  
@@ -88,6 +96,7 @@ Random Forest Classifier
 ---
 
 🎓 Academic Project
+
 This project was developed as part of the Machine Learning course at the Egyptian E-Learning University (EELU).
 
 ---
@@ -103,4 +112,5 @@ This project was developed as part of the Machine Learning course at the Egyptia
 ---
 
 💡 Built With Passion
+
 This project was developed as part of a Machine Learning learning journey, focusing on data preprocessing, classification, and model evaluation 🤖✨
