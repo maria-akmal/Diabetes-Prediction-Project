@@ -56,8 +56,7 @@ The dataset contains medical records of patients with features such as:
 ---
 
 🛠️ Technologies Used
-
-Python  
+ 
 Pandas  
 NumPy  
 Matplotlib  
